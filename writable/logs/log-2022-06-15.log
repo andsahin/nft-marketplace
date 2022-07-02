@@ -1,0 +1,70 @@
+CRITICAL - 2022-06-15 10:55:27 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 123, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->collectionWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 16:36:12 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 123, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->collectionWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 16:36:46 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 196, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 16:41:21 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 196, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 16:43:02 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 196, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 17:38:44 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 196, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 17:41:06 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 196, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 17:42:15 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 196, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 17:43:49 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 196, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-15 18:19:22 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 123, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->collectionWiseNfts('requestProvider...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}

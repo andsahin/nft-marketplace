@@ -1,0 +1,359 @@
+CRITICAL - 2022-06-14 16:07:47 --> Argument 2 passed to set_value() must be of the type string, null given, called in D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php on line 65
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php(65): set_value('server_ip', NULL)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(236): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate('1')
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 16:07:49 --> Argument 2 passed to set_value() must be of the type string, null given, called in D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php on line 65
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php(65): set_value('server_ip', NULL)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(236): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate('1')
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 16:08:12 --> Argument 2 passed to set_value() must be of the type string, null given, called in D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php on line 65
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php(65): set_value('server_ip', NULL)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(236): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate('1')
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 16:08:18 --> Argument 2 passed to set_value() must be of the type string, null given, called in D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php on line 65
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php(65): set_value('server_ip', NULL)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(236): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate('1')
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 16:08:20 --> Argument 2 passed to set_value() must be of the type string, null given, called in D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php on line 65
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\network_update.php(65): set_value('server_ip', NULL)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(236): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate('1')
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 17:30:53 --> Trying to get property 'network_name' of non-object
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\contract_setup.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(363): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->contract_setup()
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 17:31:01 --> Trying to get property 'network_name' of non-object
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\contract_setup.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(363): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->contract_setup()
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 17:31:10 --> Trying to get property 'network_name' of non-object
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\contract_setup.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(363): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->contract_setup()
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 17:31:25 --> Trying to get property 'network_name' of non-object
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\contract_setup.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(363): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->contract_setup()
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 17:31:42 --> Trying to get property 'network_name' of non-object
+#0 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Views\Admin\nft-setup\contract_setup.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\nftbox-main\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#3 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Nft...', Array)
+#4 D:\xampp\htdocs\nftbox-main\app\Modules\Nfts\Controllers\Admin\Nfts_setup.php(363): App\Libraries\Template->admin_layout(Array)
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->contract_setup()
+#6 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#7 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 17:42:01 --> syntax error, unexpected ';', expecting ')'
+#0 D:\xampp\htdocs\nftbox-main\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Sys...', Array, true)
+#1 D:\xampp\htdocs\nftbox-main\app\Libraries\Template.php(44): view('App\\Modules\\Sys...', Array)
+#2 D:\xampp\htdocs\nftbox-main\app\Modules\System_user\Controllers\Admin\Admin.php(227): App\Libraries\Template->admin_layout(Array)
+#3 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(926): App\Modules\System_user\Controllers\Admin\Admin->edit_profile()
+#4 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\System_user\Controllers\Admin\Admin))
+#5 D:\xampp\htdocs\nftbox-main\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\nftbox-main\index.php(64): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-14 19:27:04 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:27:52 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:30:40 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:31:25 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:36:07 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:36:12 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:41:33 --> json_decode() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', '/home/nftbox/pu...', 394, Array)
+#1 /home/nftbox/public_html/app/Modules/Nfts/Controllers/Admin/Nfts_setup.php(394): json_decode(Object(stdClass))
+#2 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->contract_setup_ajax()
+#3 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#4 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-14 19:41:50 --> json_decode() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', '/home/nftbox/pu...', 394, Array)
+#1 /home/nftbox/public_html/app/Modules/Nfts/Controllers/Admin/Nfts_setup.php(394): json_decode(Object(stdClass))
+#2 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->contract_setup_ajax()
+#3 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#4 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-14 19:42:03 --> Trying to get property 'rpc_url' of non-object
+#0 /home/nftbox/public_html/app/Modules/Nfts/Controllers/Admin/Nfts_setup.php(389): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 389, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->contract_setup_ajax()
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts_setup))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:44:43 --> Table 'nftbox_demo.dbt_themes' doesn't exist
+#0 /home/nftbox/public_html/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT `name`\nF...')
+#1 /home/nftbox/public_html/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`\nF...')
+#2 /home/nftbox/public_html/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`\nF...')
+#3 /home/nftbox/public_html/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `name`\nF...', Array, false)
+#4 /home/nftbox/public_html/app/Modules/Website/Controllers/BaseController.php(59): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nftbox/public_html/system/CodeIgniter.php(899): App\Modules\Website\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 /home/nftbox/public_html/system/CodeIgniter.php(407): CodeIgniter\CodeIgniter->createController()
+#7 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 19:44:46 --> Table 'nftbox_demo.dbt_themes' doesn't exist
+#0 /home/nftbox/public_html/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT `name`\nF...')
+#1 /home/nftbox/public_html/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`\nF...')
+#2 /home/nftbox/public_html/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`\nF...')
+#3 /home/nftbox/public_html/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `name`\nF...', Array, false)
+#4 /home/nftbox/public_html/app/Modules/Website/Controllers/BaseController.php(59): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nftbox/public_html/system/CodeIgniter.php(899): App\Modules\Website\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 /home/nftbox/public_html/system/CodeIgniter.php(407): CodeIgniter\CodeIgniter->createController()
+#7 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 19:44:53 --> Table 'nftbox_demo.dbt_themes' doesn't exist
+#0 /home/nftbox/public_html/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT `name`\nF...')
+#1 /home/nftbox/public_html/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`\nF...')
+#2 /home/nftbox/public_html/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`\nF...')
+#3 /home/nftbox/public_html/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `name`\nF...', Array, false)
+#4 /home/nftbox/public_html/app/Modules/Website/Controllers/BaseController.php(59): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nftbox/public_html/system/CodeIgniter.php(899): App\Modules\Website\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 /home/nftbox/public_html/system/CodeIgniter.php(407): CodeIgniter\CodeIgniter->createController()
+#7 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 19:58:29 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:58:37 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 19:58:41 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:00:49 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:00:56 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:02:43 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:03:04 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:03:07 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:03:14 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:03:45 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home/nftbox/public_html/app/Config/Events.php(28): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home/nftbox/public_html/system/Events/Events.php(188): call_user_func(Object(Closure))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(301): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:07:36 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(190): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 190, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('asset', 'details', '8', '8')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:09:01 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(190): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 190, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('asset', 'details', '8', '8')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:13:50 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(190): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 190, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('asset', 'details', '10', '10', '0xF5813b80c982a...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:13:55 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(190): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 190, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('asset', 'details', '10', '10', '0xF5813b80c982a...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:13:58 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(190): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 190, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('asset', 'details', '10', '10', '0xF5813b80c982a...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 20:24:35 --> Undefined variable: favourite
+#0 /home/nftbox/public_html/app/Views/themes/website_template/nft_details.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nftbox/pu...', 77, Array)
+#1 /home/nftbox/public_html/system/View/View.php(246): include('/home/nftbox/pu...')
+#2 /home/nftbox/public_html/system/Common.php(1119): CodeIgniter\View\View->render('themes/website_...', Array, true)
+#3 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(116): view('themes/website_...', Array)
+#4 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->nft_details('10', '10', '0xF5813b80c982a...')
+#5 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#6 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-14 20:24:54 --> Undefined variable: bid_info
+#0 /home/nftbox/public_html/app/Views/themes/website_template/nft_details.php(305): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nftbox/pu...', 305, Array)
+#1 /home/nftbox/public_html/system/View/View.php(246): include('/home/nftbox/pu...')
+#2 /home/nftbox/public_html/system/Common.php(1119): CodeIgniter\View\View->render('themes/website_...', Array, true)
+#3 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(116): view('themes/website_...', Array)
+#4 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->nft_details('10', '10', '0xF5813b80c982a...')
+#5 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#6 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-14 20:25:13 --> Undefined variable: activities
+#0 /home/nftbox/public_html/app/Views/themes/website_template/nft_details.php(357): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nftbox/pu...', 357, Array)
+#1 /home/nftbox/public_html/system/View/View.php(246): include('/home/nftbox/pu...')
+#2 /home/nftbox/public_html/system/Common.php(1119): CodeIgniter\View\View->render('themes/website_...', Array, true)
+#3 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(116): view('themes/website_...', Array)
+#4 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->nft_details('10', '10', '0xF5813b80c982a...')
+#5 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#6 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-14 20:36:28 --> Trying to get property 'user_id' of non-object
+#0 /home/nftbox/public_html/app/Modules/Website/Controllers/Home.php(204): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home/nftbox/pu...', 204, Array)
+#1 /home/nftbox/public_html/system/CodeIgniter.php(926): App\Modules\Website\Controllers\Home->userWiseNfts('details', '6', '6', '0xF5813b80c982a...')
+#2 /home/nftbox/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#3 /home/nftbox/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nftbox/public_html/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}

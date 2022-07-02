@@ -1,0 +1,30 @@
+.form-control-bg {
+    background-color: #f0f0f0;
+}
+
+.like-active {
+    fill: red;
+    stroke: red;
+}
+
+.social-link li a i {
+  color: #fff;
+  font-size: 24px;
+}
+
+.align-items-center.card-body.d-flex.ji.justify-content-center.empty-tag {
+    min-height: 400px;
+}
+
+p.nft-details {
+    word-break: break-all;
+}
+
+
+.d-fav-item{
+    height: 40px;
+    width: 40px;
+    padding: 0;
+    top: 15px;
+    right: 15px;
+}

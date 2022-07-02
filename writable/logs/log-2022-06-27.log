@@ -1,0 +1,96 @@
+CRITICAL - 2022-06-27 14:34:52 --> Use of undefined constant UPDATE_INFO_URL - assumed 'UPDATE_INFO_URL' (this will throw an Error in a future version of PHP)
+#0 D:\xampp\htdocs\testnft\app\Libraries\Template.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\testnft\app\Modules\System_user\Controllers\Admin\Admin.php(126): App\Libraries\Template->admin_layout(Array)
+#2 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\System_user\Controllers\Admin\Admin->form()
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\System_user\Controllers\Admin\Admin))
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-27 14:35:09 --> Use of undefined constant UPDATE_INFO_URL - assumed 'UPDATE_INFO_URL' (this will throw an Error in a future version of PHP)
+#0 D:\xampp\htdocs\testnft\app\Libraries\Template.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\testnft\app\Modules\System_user\Controllers\Admin\Admin.php(126): App\Libraries\Template->admin_layout(Array)
+#2 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\System_user\Controllers\Admin\Admin->form()
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\System_user\Controllers\Admin\Admin))
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-27 14:35:50 --> file_get_contents(https://update.bdtask.com/nftbox/autoupdate/update_info): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\testnft\app\Libraries\Template.php(20): file_get_contents('https://update....')
+#2 D:\xampp\htdocs\testnft\app\Modules\System_user\Controllers\Admin\Admin.php(126): App\Libraries\Template->admin_layout(Array)
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\System_user\Controllers\Admin\Admin->form()
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\System_user\Controllers\Admin\Admin))
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-27 14:36:04 --> file_get_contents(): Filename cannot be empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\testnft\app\Libraries\Template.php(20): file_get_contents('')
+#2 D:\xampp\htdocs\testnft\app\Modules\System_user\Controllers\Admin\Admin.php(126): App\Libraries\Template->admin_layout(Array)
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\System_user\Controllers\Admin\Admin->form()
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\System_user\Controllers\Admin\Admin))
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-27 14:36:52 --> Undefined variable: max_version
+#0 D:\xampp\htdocs\testnft\app\Libraries\Template.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\testnft\app\Modules\System_user\Controllers\Admin\Admin.php(126): App\Libraries\Template->admin_layout(Array)
+#2 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\System_user\Controllers\Admin\Admin->form()
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\System_user\Controllers\Admin\Admin))
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-27 14:48:56 --> syntax error, unexpected ')', expecting ';' or ','
+#0 D:\xampp\htdocs\testnft\system\Common.php(1119): CodeIgniter\View\View->render('App\\Modules\\Nft...', Array, true)
+#1 D:\xampp\htdocs\testnft\app\Libraries\Template.php(35): view('App\\Modules\\Nft...', Array)
+#2 D:\xampp\htdocs\testnft\app\Modules\Nfts\Controllers\Admin\Nfts.php(27): App\Libraries\Template->admin_layout(Array)
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts->index()
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Nfts\Controllers\Admin\Nfts))
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-27 14:53:20 --> Table 'nftbox_test.dbt_themes' doesn't exist
+#0 D:\xampp\htdocs\testnft\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `name`\nF...')
+#1 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`\nF...')
+#2 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`\nF...')
+#3 D:\xampp\htdocs\testnft\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `name`\nF...', Array, false)
+#4 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\BaseController.php(59): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(899): App\Modules\Website\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 D:\xampp\htdocs\testnft\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->createController()
+#7 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 14:53:34 --> Table 'nftbox_test.dbt_themes' doesn't exist
+#0 D:\xampp\htdocs\testnft\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `name`\nF...')
+#1 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`\nF...')
+#2 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`\nF...')
+#3 D:\xampp\htdocs\testnft\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `name`\nF...', Array, false)
+#4 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\BaseController.php(59): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(899): App\Modules\Website\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 D:\xampp\htdocs\testnft\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->createController()
+#7 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 14:53:43 --> Table 'nftbox_test.dbt_themes' doesn't exist
+#0 D:\xampp\htdocs\testnft\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `name`\nF...')
+#1 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`\nF...')
+#2 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`\nF...')
+#3 D:\xampp\htdocs\testnft\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `name`\nF...', Array, false)
+#4 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\BaseController.php(59): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(899): App\Modules\Website\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 D:\xampp\htdocs\testnft\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->createController()
+#7 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 14:53:44 --> Table 'nftbox_test.dbt_themes' doesn't exist
+#0 D:\xampp\htdocs\testnft\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `name`\nF...')
+#1 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`\nF...')
+#2 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`\nF...')
+#3 D:\xampp\htdocs\testnft\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `name`\nF...', Array, false)
+#4 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\BaseController.php(59): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(899): App\Modules\Website\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 D:\xampp\htdocs\testnft\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->createController()
+#7 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}

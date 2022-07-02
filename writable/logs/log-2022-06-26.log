@@ -1,0 +1,55 @@
+CRITICAL - 2022-06-26 12:31:11 --> Invalid file: {0}
+#0 D:\xampp\htdocs\testnft\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes//index.p...')
+#1 D:\xampp\htdocs\testnft\system\Common.php(1119): CodeIgniter\View\View->render('themes//index', Array, true)
+#2 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\Home.php(61): view('themes//index', Array)
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\Website\Controllers\Home->index()
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-26 12:31:13 --> Invalid file: {0}
+#0 D:\xampp\htdocs\testnft\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes//index.p...')
+#1 D:\xampp\htdocs\testnft\system\Common.php(1119): CodeIgniter\View\View->render('themes//index', Array, true)
+#2 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\Home.php(61): view('themes//index', Array)
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\Website\Controllers\Home->index()
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-26 12:31:15 --> Invalid file: {0}
+#0 D:\xampp\htdocs\testnft\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes//index.p...')
+#1 D:\xampp\htdocs\testnft\system\Common.php(1119): CodeIgniter\View\View->render('themes//index', Array, true)
+#2 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\Home.php(61): view('themes//index', Array)
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\Website\Controllers\Home->index()
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-26 12:31:17 --> Invalid file: {0}
+#0 D:\xampp\htdocs\testnft\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes//index.p...')
+#1 D:\xampp\htdocs\testnft\system\Common.php(1119): CodeIgniter\View\View->render('themes//index', Array, true)
+#2 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\Home.php(61): view('themes//index', Array)
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\Website\Controllers\Home->index()
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-26 12:31:32 --> Table 'nftbox_test.dbt_themes' doesn't exist
+#0 D:\xampp\htdocs\testnft\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `name`\nF...')
+#1 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`\nF...')
+#2 D:\xampp\htdocs\testnft\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`\nF...')
+#3 D:\xampp\htdocs\testnft\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `name`\nF...', Array, false)
+#4 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\BaseController.php(59): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\testnft\system\CodeIgniter.php(899): App\Modules\Website\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 D:\xampp\htdocs\testnft\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->createController()
+#7 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-26 16:39:42 --> syntax error, unexpected '.'
+#0 D:\xampp\htdocs\testnft\system\Common.php(1119): CodeIgniter\View\View->render('themes/website_...', Array, true)
+#1 D:\xampp\htdocs\testnft\app\Modules\Website\Controllers\Home.php(454): view('themes/website_...', Array)
+#2 D:\xampp\htdocs\testnft\system\CodeIgniter.php(926): App\Modules\Website\Controllers\Home->register()
+#3 D:\xampp\htdocs\testnft\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Website\Controllers\Home))
+#4 D:\xampp\htdocs\testnft\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testnft\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
